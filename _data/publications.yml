@@ -1,22 +1,64 @@
 main:
+  - title: "Automated Detection and Analysis of Massive Mining Waste Deposits Using Sentinel-2 Satellite Imagery and Artificial Intelligence"
+    authors: 
+      - Manuel Silva<sup>1</sup> [ORCID]
+      - Gabriel Hermosilla<sup>1,*</sup> [ORCID]
+      - Gabriel Villavicencio<sup>2</sup> [ORCID]
+      - Pierre Breul<sup>3</sup> [ORCID]
+    affiliations:
+      - "1: Escuela de Ingeniería Eléctrica, Pontificia Universidad Católica de Valparaíso, Avenida Brasil 2147, Valparaíso 2340000, Chile"
+      - "2: Escuela de Ingeniería de Construcción y Transporte, Pontificia Universidad Católica de Valparaíso, Avenida Brasil 2147, Valparaíso 2340000, Chile"
+      - "3: Département Génie Civil, Polytech Clermont, Institut Pascal UMR CNRS 6602, Université Clermont Auvergne, Av. Blaise Pascal SA 60206-63178 Aubière, CEDEX, 63000 Clermont Ferrand, France"
+    correspondence: "* Author to whom correspondence should be addressed."
+    journal: "Remote Sens."
+    year: 2023
+    volume_issue: "15(20)"
+    page_range: "4949"
+    doi: "https://doi.org/10.3390/rs15204949"
+    submission_date: "28 August 2023"
+    revised_date: "2 October 2023"
+    accepted_date: "9 October 2023"
+    published_date: "13 October 2023"
+    special_issue: "Remote Sensing Image Classification and Semantic Segmentation"
+    
+  - title: "Advanced Deep Learning Techniques for High-Quality Synthetic Thermal Image Generation"
+    authors: 
+      - Vicente Pavez
+      - Gabriel Hermosilla*
+      - Manuel Silva
+      - Gonzalo Farias
+    affiliations:
+      - "Escuela de Ingeniería Eléctrica, Pontificia Universidad Católica de Valparaíso, Avenida Brasil 2147, Valparaíso 2362804, Chile"
+    correspondence: "* Author to whom correspondence should be addressed."
+    journal: "Mathematics"
+    year: 2023
+    volume_issue: "11(21)"
+    page_range: "4446"
+    doi: "https://doi.org/10.3390/math11214446"
+    submission_date: "21 September 2023"
+    revised_date: "17 October 2023"
+    accepted_date: "24 October 2023"
+    published_date: "27 October 2023"
+    section: "Computational and Applied Mathematics"
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "AI-Driven Geolocation of Mining Waste Deposits Using Sentinel Satellite Imagery"
+    authors: 
+      - Manuel Silva
+      - Gabriel Hermosilla
+      - Gabriel Villavicencio
+      - Pierre Breul
+      - Juan Carlos Quezada
+    conference: "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON)"
+    conference_date: "05-07 December 2023"
+    publisher: IEEE
+    pdf: # Agrega el enlace al PDF aquí
+    abstract: |
+      In the global mining industry, periodic monitoring of large Mining Waste Deposits (MWDs) is essential. This paper presents an innovative approach leveraging advanced artificial intelligence techniques combined with high-resolution Sentinel satellite imagery to accurately geolocate MWDs in Chile. Our methodology involves segmenting satellite images, expert labeling, and training state-of-the-art models for precise detection. Experimental results, as summarized in the table below, highlight the superior performance of the YOLOv7 model with an AP Box of 0.75 and an AP Mask of 0.72, outperforming other tested configurations like Mask RCNN with FPN 3X. The results demonstrate the potential of this approach in optimizing the management and monitoring of MWDs, contributing significantly to safety and sustainability in the mining sector. This research not only provides insights into the capabilities of AI in geospatial analysis but also sets a benchmark for future studies in the realm of mining and environmental management.
+    isbn_information:
+      electronic_ISBN: "979-8-3503-6953-3"
+      print_on_demand_ISBN: "979-8-3503-6954-0"
+    issn_information:
+      electronic_ISSN: "2832-1537"
+      print_on_demand_ISSN: "2832-1529"
+    date_added_to_ieee_xplore: "15 February 2024"
