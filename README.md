@@ -1,3 +1,2 @@
 # msilvav.github.io
-
-Personal site
+Personal site for Github Pages
