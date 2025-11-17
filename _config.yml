@@ -1,6 +1,18 @@
-title: "Manuel Silva"
-description: "GeoAI, Remote Sensing & Mine Waste Stability"
+title: "Manuel Silva Vega"
+description: "GeoAI & Remote Sensing for Mine Waste Stability in Chile"
 theme: jekyll-theme-minimal
-github_username: msilvav
-show_downloads: false
 
+# Opcional: logo (cuando tengas una imagen)
+# logo: /assets/profile.jpg
+
+# Enlaces rápidos
+github_username: msilvav
+linkedin: "https://www.linkedin.com/in/msilvavega/"
+
+# Páginas que aparecen en el header (twist respecto a Mina)
+header_pages:
+  - research.md
+  - teaching.md
+  - datasets.md
+  - awards.md
+  - publications.md
