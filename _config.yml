@@ -4,11 +4,9 @@ theme: jekyll-theme-minimal
 
 logo: /assets/silva.jpg
 
-# Enlaces rápidos
 github_username: msilvav
 linkedin: "https://www.linkedin.com/in/msilvavega/"
 
-# Páginas que aparecen en el header (twist respecto a Mina)
 header_pages:
   - research.md
   - teaching.md
