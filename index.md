@@ -31,4 +31,4 @@ My research combines satellite imagery (Sentinel-1/2), DEMs and geotechnical dat
 - 🔗 [Google Scholar](https://scholar.google.com/citations?user=YBoFJH8AAAAJ&hl=es)
 - 💻 [GitHub](https://github.com/msilvav)
 - 🌐 [AI-MineSafe PUCV](https://www.ai-minesafe-pucv.cl)
-- 💼 [LinkedIn](www.linkedin.com/in/msilvavega)
+- 💼 [LinkedIn](https://www.linkedin.com/in/msilvavega)
